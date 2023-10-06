@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-/* 
- * * main - display string using puts
- *   */
+/**
+ *  * main - display string using puts
+ *   * Return: always 0
+ *    */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");

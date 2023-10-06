@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-
- # main - display string using puts
- # Return: always 0
+/**
+ *  * main - display string using puts
+ *   * Return: always 0 
+*/
 
 int main(void)
 {

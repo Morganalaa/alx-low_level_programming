@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /**
- *  * File: main.h
+ *  File: main.h
  * description: Header file containing prototypes for all functions
  * used in the 0x06-pointers_arrays_strings directory.
  */

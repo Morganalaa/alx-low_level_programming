@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -c *.c
-ar -rc libname.a *.o
+gcc -c -Wall -Werror -Wextra *.c
+ar -rc create_static_lib.sh *.o

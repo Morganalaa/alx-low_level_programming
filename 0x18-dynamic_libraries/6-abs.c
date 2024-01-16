@@ -3,14 +3,14 @@
  *_abs - return deppend of sign of n
  *
  *Return: 0
- *@c: number for evaluate
+ *@n: number for evaluate
  */
 int _abs(int n)
 {
-	if (c < 0)
+	if (n < 0)
 	{
-		return (-c);
+		return (-n);
 	}
 	else
-		return (c);
+		return (n);
 }

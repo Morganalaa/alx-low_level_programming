@@ -5,7 +5,7 @@
  *Return: 0
  *@c: number for evaluate
  */
-int _abs(int c)
+int _abs(int n)
 {
 	if (c < 0)
 	{
